@@ -1,0 +1,8 @@
+172.19.0.1 - - [05/May/2023:13:12:29 +0000] "GET / HTTP/1.1" 500 6628 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0"
+172.19.0.1 - - [05/May/2023:13:12:31 +0000] "GET / HTTP/1.1" 500 6628 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0"
+172.19.0.1 - - [05/May/2023:13:12:31 +0000] "GET / HTTP/1.1" 500 6628 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0"
+172.19.0.1 - - [05/May/2023:13:12:32 +0000] "GET / HTTP/1.1" 500 6628 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0"
+172.19.0.1 - - [05/May/2023:13:12:32 +0000] "GET / HTTP/1.1" 500 6628 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0"
+172.19.0.1 - - [05/May/2023:13:28:16 +0000] "GET / HTTP/1.1" 200 12 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0"
+172.19.0.1 - - [05/May/2023:13:28:16 +0000] "GET /favicon.ico HTTP/1.1" 200 0 "http://127.0.0.1:81/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0"
+172.19.0.1 - - [05/May/2023:13:28:26 +0000] "GET /api/address HTTP/1.1" 500 1043836 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0"
